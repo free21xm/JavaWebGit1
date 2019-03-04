@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d9dbd431-f492-4c62-96d7-8d901ffaa689" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="d9dbd431-f492-4c62-96d7-8d901ffaa689" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -220,7 +218,7 @@
       <option name="presentableId" value="Default" />
       <updated>1551705689222</updated>
       <workItem from="1551705692350" duration="1669000" />
-      <workItem from="1551707965476" duration="494000" />
+      <workItem from="1551707965476" duration="625000" />
     </task>
     <task id="LOCAL-00001" summary="添加GitTest1工程到github">
       <created>1551706050009</created>
@@ -233,7 +231,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2163000" />
+    <option name="totallyTimeSpent" value="2294000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="322" y="40" width="1398" height="899" extended-state="1" />
